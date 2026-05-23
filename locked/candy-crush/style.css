@@ -33,7 +33,7 @@ h1 {
 }
 
 body {
-  background-image: "/candy-crush-background.png";
+  background-image: "/images/candy-crush-background.png";
   max-width: 100vh;
   display: flex;
 }
